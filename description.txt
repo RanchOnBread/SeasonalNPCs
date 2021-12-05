@@ -1,0 +1,13 @@
+Have you ever wanted an item, but it was never the correct season? Have you ever felt that cheating in Christmas items didn't sit right?
+
+Welcome to Seasonal NPCs, a mod that allows you to get seasonal items no matter the time or place.
+
+-------------------------------------------
+
+Version 0.1 (Initial Release)
+
+-Added the Christmerchant, an NPC who sells Christmas-Themed Items, with more sold in Hardmode (Don't forget his famous quotes)!
+
+-Added the Radio Present, the item used to spawn the Christmerchant.
+
+Currently working on the Thanksgiver, an NPC all about Thanksgiving-seasoned items.

@@ -1,0 +1,3 @@
+displayName = Seasonal NPCs
+author = RanchOnBread
+version = 0.1
